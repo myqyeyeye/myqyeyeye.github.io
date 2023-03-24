@@ -1,0 +1,30 @@
+table {
+    width: 100%;
+    vertical-align:baseline;
+    align-content: center;
+  }
+  
+  td {
+    text-align: center;
+  }
+  
+  a {
+    font-size: 26px;
+    color: gray;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  p {
+    margin: 10;
+  }
+  
+  p:first-of-type {
+    color: skyblue;
+    font-weight: 800;
+  }
+
+  body {
+    margin: 30px;
+}
+  
